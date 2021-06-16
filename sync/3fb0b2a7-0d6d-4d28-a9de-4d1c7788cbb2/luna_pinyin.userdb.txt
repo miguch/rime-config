@@ -1,0 +1,12 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	5
+#@/user_id	3fb0b2a7-0d6d-4d28-a9de-4d1c7788cbb2
+fu yu 	賦予	c=1 d=1 t=4
+jian ti 	簡體	c=1 d=1 t=2
+shen du 	深度	c=0 d=0.1 t=0
+shen du xue xi 	深度學習	c=1 d=1 t=1
+xue xi 	學習	c=1 d=1.09851 t=3
+yi ge 	一個	c=1 d=1 t=5
