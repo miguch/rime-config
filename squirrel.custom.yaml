@@ -5,6 +5,7 @@ patch:
     color_scheme: lost_temple
     candidate_list_layout: linear
     text_orientation: horizontal
+    inline_preedit: true   # 非內嵌編碼行
     border_color_width: 0
     candidate_format: '%c %@'
     corner_radius: 5
